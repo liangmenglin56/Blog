@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "个人博客",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangmenglin56/Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangmenglin56/Blog/issues"
+  },
+  "homepage": "https://github.com/liangmenglin56/Blog#readme"
+}
