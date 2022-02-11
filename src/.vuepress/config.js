@@ -8,7 +8,8 @@ module.exports = {
             {text: '前端基础', link: '/basic/container/a' },
             {text: 'JavaScript', link: '/javascript/container/原型与原型链' },
             {text: 'Vue', link: '/vue/' },
-            {text: 'CSS', link: '/css/' }
+            {text: 'CSS', link: '/css/' },
+            {text: 'Bug记录', link: '/bug/' }
         ],
         sidebar: {
             '/basic/container/': [
