@@ -1,4 +1,5 @@
 module.exports = {
+    title: 'HelloWorld',
     description: '我的个人网站',
     base: './',
     themeConfig: {
