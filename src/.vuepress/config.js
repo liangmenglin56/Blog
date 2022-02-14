@@ -1,7 +1,7 @@
 module.exports = {
     title: 'HelloWorld',
     description: '我的个人网站',
-    base: './',
+    // base: "./",
     themeConfig: {
         nav:[ // 导航栏配置
             {text: '首页', link: '/' },
